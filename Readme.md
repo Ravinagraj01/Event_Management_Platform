@@ -36,8 +36,8 @@ You’ll find all the details in the `design_document.md` file, including my ass
 ### Setup Instructions
 1. **Clone the Repository** (if using GitHub):
 ```bash
-git clone <https://github.com/Ravinagraj01/Event_Management_Platform>
-cd <Event_Management_Platform>
+    git clone https://github.com/Ravinagraj01/Event_Management_Platform
+    cd Event_Management_Platform
 ```
 Or unpack the uploaded `.zip` file to the desired directory.
 
@@ -63,8 +63,8 @@ Begin the Flask server running: %dw python app.py  Server will begin at `http://
 ### Setup Instructions
 1. **Clone the Repository** (if using GitHub):
    ```bash
-   git clone <repository-url>
-   cd <repository-folder>
+   git clone https://github.com/Ravinagraj01/Event_Management_Platform
+   cd Event_Management_Platform
    ```
    Alternatively, unzip the submitted `.zip` file to your desired directory.
 
